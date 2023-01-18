@@ -1,4 +1,4 @@
-# Week2 VBA Challenge- Multi-Year Stock Data Analysis
+# Week2 VBA Challenge - Multi-Year Stock Data Analysis
 ## Instructions
 
 * Create a script that will loop through all the stocks for one year for each run and take the following information:
